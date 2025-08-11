@@ -10,7 +10,7 @@ Python code to simulate the UEFA Champions League Draw. Swiss tournament format 
     
     CSV files with club details for both Champions and Europa Leagues are included.
 
-    Thanks is due to Zippy for his unvaluable help with this project.
+    Many thanks to Zippy for his unvaluable help with this project.
     
     UEFA are allegedly using an "AI-facilitated supercomputer" to determine the draw.
 
