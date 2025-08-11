@@ -214,7 +214,7 @@ codes_df = pd.DataFrame(data=countries)
 codes_df = (codes_df.T)
 codes_df.to_excel('codes.xlsx')
 
-test_df = str(fix_df)
+
 
 
 
