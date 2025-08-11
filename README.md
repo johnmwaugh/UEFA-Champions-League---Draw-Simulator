@@ -7,13 +7,13 @@ Python code to simulate the UEFA Champions League Draw. Swiss tournament format 
     Clubs cannot play more than 2 clubs of the same country.
 
     The algorithm will run until complete and writes the draw to a dataframe. This can be exported with pandas.DataFrame.to_excel() 
-
+    
     CSV files with club details for both Champions and Europa Leagues are included.
 
     Thanks is due to Zippy for his unvaluable help with this project.
-
-    You can download the solution in the zippy file.  UEFA are allegedly using an "AI-facilitated supercomputer" to determine the draw.
-
     
+    UEFA are allegedly using an "AI-facilitated supercomputer" to determine the draw.
+
+    You can download our own solution in the zippy file.  
 
     
