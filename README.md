@@ -1,4 +1,4 @@
-# UEFA Champions League - Draw Simulator
+## UEFA Champions League - Draw Simulator
 Python code to simulate the UEFA Champions League Draw.  Swiss tournament format from 2024/25 season onwards.
 
     36 teams are split into 4 pots based on UEFA co-efficient ranking.
@@ -14,6 +14,6 @@ Python code to simulate the UEFA Champions League Draw.  Swiss tournament format
     
     UEFA are allegedly using an "AI-facilitated supercomputer" to determine the draw.
 
-    You can download our own solution in the zippy file.  
+    You can download our own solution in the ZIP file.  
 
     
