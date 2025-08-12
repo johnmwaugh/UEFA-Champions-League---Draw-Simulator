@@ -16,7 +16,7 @@ CSV files with club details for both Champions and Europa Leagues are included.
 
 
 Many thanks to Zippy for his unvaluable help with this project.
-You can download our own solution in the ZIP file.  
+You can download his solution in the ZIP file.  
 
 
     
