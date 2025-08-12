@@ -10,7 +10,7 @@ Clubs cannot play more than 2 clubs of the same country.
 
 As a result of these numerous complexities. UEFA are allegedly using an "AI-facilitated supercomputer" to determine the draw.
 
-The algorithm will run until complete and writes the draw to a dataframe. This can be exported with pandas.DataFrame.to_excel() 
+The algorithm will run until complete and writes the draw to a dataframe. This can be exported with pandas.DataFrame.to_excel(). 
 
 CSV files with club details for both Champions and Europa Leagues are included for hours of endless fun. Similar to the real draw.
 
