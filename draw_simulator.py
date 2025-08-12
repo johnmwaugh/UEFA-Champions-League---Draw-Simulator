@@ -66,7 +66,7 @@ def simulate_draw(teams):
             
             random.shuffle(pot)
             
-            MAX_RETRIES = 162
+            MAX_RETRIES = len(pot) ** 2 * 2
             attempts = 0
             
             while attempts < MAX_RETRIES and potCount < len(teams) / 2:
