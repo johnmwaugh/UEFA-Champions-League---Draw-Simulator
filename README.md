@@ -14,6 +14,7 @@ The algorithm will run until complete and writes the draw to a dataframe. This c
 
 CSV files with club details for both Champions and Europa Leagues are included.
 
+
 Many thanks to Zippy for his unvaluable help with this project.
 You can download our own solution in the ZIP file.  
 
