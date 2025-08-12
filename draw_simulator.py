@@ -208,10 +208,12 @@ print(f"Elapsed time: {elapsed_time:.2f} seconds")
 
 fix_df = pd.DataFrame(data=fixtures)
 fix_df = (fix_df.T)
+fix_df = fix_df.map(' '.join)
 fix_df.to_excel('fixtures.xlsx')
 
 codes_df = pd.DataFrame(data=countries)
 codes_df = (codes_df.T)
+codes_df = codes_df.map(' '.join)
 codes_df.to_excel('codes.xlsx')
 
 
